@@ -1,0 +1,38 @@
+﻿*Reference,*Manufacturer Part number,*QTY,*Original,Description,Purchase Link
+"CIRCLE / B, CROSS / A, D, L, L1, L2, R, R1, R2, SQUARE / X, TRIANGLE / Y, U","CPG135001S30","12","","Kailh Choc hot swap socket footprint, supporting both Choc V1 and Choc V2 switches.
+
+Suggested LED placement varies slightly between the two versions - the V2 position is denoted by a much thinner silkscreen rectangle than the V1.
+
+The plate hole also has a difference in size of 0.015mm between V1 and V2; both sizes are shown by thin squares inside the outer perimeter square.","https://www.kailhswitch.com/mechanical-keyboard-switches/box-switches/choc-type-hot-swap-socket.html"
+"F1","MF-MSMF050-2","1","","Polymeric PTC Resettable Fuse 15V 500 mA Ih Surface Mount 1812 (4532 Metric), Concave #commonpartslibrary
+#ptc #Resettable-Fuses
+#polymeric
+#fuse
+#circuitprotection",""
+"HOME / PS, L3, OPTIONS / START, R3, SHARE / SELECT","","5","","Tactile Switch SPST-NO Top Actuated Through Hole, Outline 6.00mm x 6.00mm, Actuator Height off PCB, Vertical 5.00mm #switch #commonpartslibrary #Throughholetactilebutton",""
+"LOCK","SS12D07VG4","1","","Shouhan
+8.7mm
+Package
+None
+https://www.snapeda.com/parts/SS12D07VG4/Shouhan/view-part/?ref=eda
+Manufacturer Recommendations
+1
+https://www.snapeda.com/parts/SS12D07VG4/Shouhan/view-part/?ref=snap
+SS12D07VG4
+Switch Slide ON ON SPDT Top Slide 0.3A 30VDC PC Pins Bracket Mount/Through Hole Automotive Bulk
+Not in stock
+Shouhan",""
+"LS/DP/RS, SOCD","SS13D07VG4","2","","SS13D07VG4
+Switches/Slide Switches	
+HanElectricity	
+Plugin-6P,12.9x4.5mm",""
+"OLED1","","1","","I2C Display Module 0.96 Inch I2C SSD1306 OLED Display Module",""
+"R3, R4","CFR-25JB-52-1K","2","","1 kOhms ±5% 0.25W, 1/4W Through Hole Resistor Axial Carbon Film #CommonPartLibrary #ThroughHole #Resistor #Axial",""
+"U3","SC0915","1","","Pi Pico board with USB C! 
+
+This model doesn't reflect the reality of the pin holes. What's important about this model is the USB C size and position to better help 3D modelling. This is V1 which has a port further away from the side of the PCB.
+
+RP2040 Raspberry Pi Pico - ARM® Cortex®-M0+ MCU 32-Bit Embedded Evaluation Board #part",""
+"USB","10.0 4C6.3 ZB","1","","LCSC: C6386909
+	
+1.5A USB 2.0 1 Bend-in 4P Mother -25℃~+85℃ Type-A Plugin USB Connectors ROHS",""

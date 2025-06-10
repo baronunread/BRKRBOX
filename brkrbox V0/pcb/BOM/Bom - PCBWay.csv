@@ -1,0 +1,10 @@
+﻿Item #,Designator,Qty,Manufacturer,Mfg Part #,Description / Value,Package/Footprint,Type,Your Instructions / Notes
+"1","CIRCLE / B,CROSS / A,D,L,L1,L2,R,R1,R2,SQUARE / X,TRIANGLE / Y,U","12","Dongguan City Kaihua Electronics Co., Ltd.","CPG135001S30","Connector","","",""
+"2","F1","1","Bourns Inc.","MF-MSMF050-2","Fuse","","",""
+"3","HOME / PS,L3,OPTIONS / START,R3,SHARE / SELECT","5","","","Switch","","",""
+"4","LOCK","1","","SS12D07VG4","SS12D07VG4, SW_SS12D07VG4","SW_SS12D07VG4","",""
+"5","LS/DP/RS,SOCD","2","","SS13D07VG4","easyeda2kicad, SW-TH_SS13D07VG4","SW-TH_SS13D07VG4","",""
+"6","OLED1","1","","","Display Device","","",""
+"7","R3,R4","2","Yageo","CFR-25JB-52-1K","Resistor, 22Ω","","",""
+"8","U3","1","Raspberry Pi","SC0915","Evaluation Boards","","",""
+"9","USB","1","","10.0 4C6.3 ZB","easyeda2kicad, USB-TH_10.0-4C6.3-ZB","USB-TH_10.0-4C6.3-ZB","",""

@@ -1,0 +1,10 @@
+﻿Designator,Manufacturer Part Number or Seeed SKU,QTY,Link
+"CIRCLE / B,CROSS / A,D,L,L1,L2,R,R1,R2,SQUARE / X,TRIANGLE / Y,U","CPG135001S30","12","https://www.kailhswitch.com/Content/upload/pdf/202115927/CPG135001S30-data-sheet.pdf?rnd=914"
+"F1","MF-MSMF050-2","1","https://www.bourns.com/docs/product-datasheets/mf-msmf.pdf"
+"HOME / PS,L3,OPTIONS / START,R3,SHARE / SELECT","","5",""
+"LOCK","SS12D07VG4","1",""
+"LS/DP/RS,SOCD","SS13D07VG4","2",""
+"OLED1","","1",""
+"R3,R4","CFR-25JB-52-1K","2","https://www.yageo.com/upload/media/product/app/datasheet/lr/yageo-cfr_datasheet.pdf"
+"U3","SC0915","1","https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf"
+"USB","10.0 4C6.3 ZB","1",""
